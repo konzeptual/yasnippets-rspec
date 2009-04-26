@@ -1,6 +1,5 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
-#group: rspec
 #it ... end
 # --
 it 'should ${1:description}' do

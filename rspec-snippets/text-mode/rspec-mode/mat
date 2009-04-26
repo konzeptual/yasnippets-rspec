@@ -1,7 +1,6 @@
 #-*- require-final-newline: nil -*-
 #contributor: gary <ge.iams@gmail.com>
 #name : custom matcher
-#group: rspec
 # --
 class ${1:ReverseTo}
   def initialize($3)
