@@ -1,3 +1,5 @@
 #name : any? { |...| ... }
+#group: rspec
 # --
 any? { |${e}| $0 }
+
